@@ -1,0 +1,42 @@
+* {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+body {
+    background-color:rgb(241, 240, 239);
+}
+
+table th {
+    text-align: center;
+}
+
+table td {
+    text-align: center;
+}
+
+.textAlignLeft {
+    text-align: left;
+}
+
+.textAlignCenter {
+    text-align: center;
+}
+
+.main {
+    background-color: white;
+    box-shadow: 0px 0px 10px rgb(166, 166, 166);
+    padding: 10px;
+}
+
+p.sangria {
+    text-indent: 40px;
+}
+
+h4 {
+    color: rgb(62, 62, 62);
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px
+}
